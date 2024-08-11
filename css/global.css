@@ -1,0 +1,61 @@
+/* Стиль для экранов с шириной менее 273px */
+@media (max-width: 273px) {
+  .layout {
+    margin-top: 102px;
+  }
+}
+
+/* Стиль для всех остальных экранов */
+@media (min-width: 274px) {
+  .layout {
+    margin-top: 56px;
+  }
+}
+
+/* прочие глобальные стили */
+.delimiter {
+  display: none;
+}
+
+abbr {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+
+.template_day {
+  cursor: pointer;
+}
+
+.template_day:hover {
+  background-color: #2267a93e;
+}
+
+.template_day:active {
+  background-color: #2e8de73e;
+}
+
+.student_name > span {
+  display: block;
+  overflow: hidden;
+  height: 24px;
+}
+
+.slide-img {
+  height: 300px;
+}
+
+#active_list .student_name > span {
+  color: Crimson;
+}
+
+#actual_list .student_name > span {
+  color: GoldenRod;
+}
+
+#made_list .student_name > span {
+  color: LimeGreen;
+}
+
+#other_list .student_name > span {
+  color: SlateGrey;
+}
