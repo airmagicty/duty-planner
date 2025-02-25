@@ -1,3 +1,7 @@
+// Этот файл является частью проекта "Электронный дежурный журнал".
+// Проект распространяется под лицензией GNU GPL v3.0.
+// Полный текст лицензии см. в файле LICENSE.
+
 // время (для кукисов)
 const currentDateTime = new Date(); 
 const expirationDate = new Date(currentDateTime.getFullYear(), currentDateTime.getMonth() + 1, currentDateTime.getDate());
