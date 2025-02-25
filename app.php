@@ -38,8 +38,10 @@ $pattern_about = "^.{3,256}$";
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 
-  <title>Журнал</title>
+  <title>Электронный дежурный журнал</title>
   <link type="image/x-icon" href="image/favicon.ico" rel="shortcut icon">
+  <meta name="description" content="Электронный дежурный журнал — удобное решение для автоматизации распределения обязанностей и управления дежурствами. Создавайте расписания, отслеживайте выполнение задач и получайте уведомления в режиме реального времени.">
+  <meta name="keywords" content="электронный дежурный журнал, распределение обязанностей, управление дежурствами, онлайн-расписание, автоматизация задач, планировщик дежурств, система учета дежурств, организация работы, корпоративные инструменты, веб-приложение">
 
   <link type="text/css" rel="stylesheet" href="https://cdn.eclabs.ru/bootstrap/5.3.1/css/bootstrap.min.css">
 	<link type="text/css" rel="stylesheet" href="https://cdn.eclabs.ru/fontawesome/6.2.1/css/all.min.css">

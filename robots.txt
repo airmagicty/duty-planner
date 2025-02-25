@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /today_duty.php
+Disallow: /php/
+Disallow: /css/
+Disallow: /js/
+
+Allow: /
+Sitemap: https://duty.eclabs.ru/sitemap.xml
